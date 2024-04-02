@@ -22,6 +22,8 @@
 - Pandas - version 1.5.3
 - Matplotlib - version 3.7.1
 - Seaborn - version 0.13.1
+- scikit-learn - version 1.4.1
+- statsmodels - 0.14.1
 
 ## Contact
 Created by [@tusharadi25] - feel free to contact me!
